@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0f3c149.css",
+    "main.js": "/static/js/main.87783e1b.js",
+    "static/js/453.4fda6e97.chunk.js": "/static/js/453.4fda6e97.chunk.js",
+    "static/media/fraternity.png": "/static/media/fraternity.5f1a235e3cfc05f1b3f7.png",
+    "static/media/justice.png": "/static/media/justice.815f79b181ef97375874.png",
+    "static/media/liberty.png": "/static/media/liberty.2d7f3f1e582a44ba7950.png",
+    "index.html": "/index.html",
+    "main.b0f3c149.css.map": "/static/css/main.b0f3c149.css.map",
+    "main.87783e1b.js.map": "/static/js/main.87783e1b.js.map",
+    "453.4fda6e97.chunk.js.map": "/static/js/453.4fda6e97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f3c149.css",
+    "static/js/main.87783e1b.js"
+  ]
+}
